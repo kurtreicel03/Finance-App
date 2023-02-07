@@ -1,0 +1,88 @@
+"expenses": [
+    {
+      "id": 1,
+      "title": "ROG STRIX 4090",
+      "amount": 140000,
+      "date": new Date(2023, 1, 28),
+    },
+    {
+      id: 2,
+      title: "ROG STRIX Z790 FORMULA",
+      amount: 45000,
+      date: new Date(2023, 1, 28),
+    },
+    {
+      id: 3,
+      title: "CORSAIR HX 12000w PLATINUM",
+      amount: 15000,
+      date: new Date(2023, 1, 28),
+    },
+
+    {
+      id: 5,
+      title: "NZXT H9 Air flow",
+      amount: 8500,
+      date: new Date(2023, 1, 28),
+    },
+    {
+      id: 6,
+      title: "NZXT KRAZEN Z7 white",
+      amount: 15500,
+      date: new Date(2023, 1, 28),
+    },
+    {
+      id: 15,
+      title: "SAMSUNG 990 pro 2TB",
+      amount: 16000,
+      date: new Date(2023, 1, 28),
+    },
+    {
+      id: 7,
+      title: "CORSAIR VENGANGE DDR5 64GB 6000mhz 36L",
+      amount: 21000,
+      date: new Date(2023, 1, 28),
+    },
+
+    {
+      id: 8,
+      title: "INTEL I9-13900k",
+      amount: 35000,
+      date: new Date(2023, 1, 28),
+    },
+    {
+      id: 9,
+      title: "LianLi Uni Fans v2 3x120mm Fan",
+      amount: 5000,
+      date: new Date(2023, 1, 28),
+    },
+    {
+      id: 10,
+      title: "LianLi Uni Fans v2 3x120mm Fan",
+      amount: 5000,
+      date: new Date(2023, 1, 28),
+    },
+    {
+      id: 11,
+      title: "LianLi Uni Fans v2 3x120mm Fan",
+      amount: 5000,
+      date: new Date(2023, 1, 28),
+    },
+    {
+      id: 12,
+      title: "LianLi Strimmer Plus V2 24P",
+      amount: 2500,
+      date: new Date(2023, 1, 28),
+    },
+    {
+      id: 13,
+      title: "LianLi Strimmer plus V2 8p",
+      amount: 2000,
+      date: new Date(2023, 1, 28),
+    },
+    {
+      id: 14,
+      title: "LianLi Strimmer plus V2 4p",
+      amount: 1800,
+      date: new Date(2023, 1, 28),
+    },
+  ];
